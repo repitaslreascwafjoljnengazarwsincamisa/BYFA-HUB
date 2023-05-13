@@ -18,15 +18,8 @@
     
 <p> 𝐁𝐘𝐅𝐀 𝐇𝐔𝐁 𝐒𝐂𝐑𝐈𝐏𝐓 𝐅𝐎𝐑 𝐏𝐂 𝐎𝐑 𝐌𝐎𝐁𝐈𝐋𝐄<p> 
 <h4>
-<p> 𝐒𝐂𝐑𝐈𝐏𝐓 𝐏𝐂 𝐁𝐘𝐅𝐀 𝐇𝐔𝐁
 
-    
-    
-    loadstring(game:HttpGet('https://raw.githubusercontent.com/ByfacherinDev/BYFA-HUB/main/BYFA%20HUB%20PC'))()
-
-<p>
-
-<p> 𝐒𝐂𝐑𝐈𝐏𝐓 𝐌𝐎𝐁𝐈𝐋𝐄 𝐁𝐘𝐅𝐀 𝐇𝐔𝐁
+<p> 𝐒𝐂𝐑𝐈𝐏𝐓 𝐌𝐎𝐁𝐈𝐋𝐄 AND PC 𝐁𝐘𝐅𝐀 𝐇𝐔𝐁
 
     
     
