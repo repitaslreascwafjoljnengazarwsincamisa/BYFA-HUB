@@ -22,7 +22,7 @@
 
     
     
-    loadstring(game:HttpGet('https://raw.githubusercontent.com/notreal1232/brrscript/main/BYFA%20HUB%20PC'))()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/ByfacherinDev/BYFA-HUB/main/BYFA%20HUB%20PC'))()
 
 <p>
 
@@ -30,7 +30,7 @@
 
     
     
-    loadstring(game:HttpGet('https://raw.githubusercontent.com/notreal1232/brrscript/main/BYFA HUB ANDROID'))()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/ByfacherinDev/BYFA-HUB/main/BYFA%20HUB%20ANDROID'))()
 
 <p>
 
