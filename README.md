@@ -13,3 +13,6 @@
  <link>
     <a href="https://www.youtube.com/channel/UCBxJFYmfMIOh3u_DKd-ccvw"
         target="_blank">Youtube</a>
+        <hr>
+<img src="https://media.discordapp.net/attachments/1099136919864098927/1106895684210282536/BYFA.gif?width=566&height=566" alt="BYFA HUB IMAGE GIF" width="" height=""
+     style="vertical-align:middle">
