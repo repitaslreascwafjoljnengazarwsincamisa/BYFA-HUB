@@ -34,7 +34,7 @@
     
     [+] Arsenal
     [+] Blox Fruits
-    [+] Project Muegetsu
+    [+] Project Slayers
     [+] BedWars
     [+] Doors
     [+] Prision Life
@@ -48,7 +48,7 @@
     [+] Muerder Mistery 2
     [+] Evade 
     [+] Jail Break 
-    [+] YBA
+    [+] Arm Wrestle Simulator
     [+] Anime Adventures 
     [+] All Stars Tower Defense
     [+] King Legacy`
